@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: never commit API keys
+.env
+
+# Local data
+*.db
+*.wav
